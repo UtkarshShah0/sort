@@ -1,5 +1,5 @@
 # sort
-It is a sorting function that sorts list using selection sorting<br>
+It is a sorting program that sorts list using selection sort<br>
 
 <h1>Built in</h1>
 It is made in python
